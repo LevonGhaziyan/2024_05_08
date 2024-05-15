@@ -168,22 +168,22 @@ footer {
 
 #sign {
     position: absolute;
-    bottom: 16vh;
+    bottom: 20vh;
     left: 20px;
-    width: 80px;
+    /* width: 60px; */
     display: flex;
     justify-content: center;
 }
 
 #sign>svg {
-    width: 90px;
-    height: 120px;
+    width: 60px;
+    height: 70px;
 }
 
 #height_counter {
     position: absolute;
-    top: 30px;
-    font-size: 11px;
+    top: 12px;
+    font-size: 9px;
 }
 
 #plant_container {
