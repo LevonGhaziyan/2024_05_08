@@ -144,7 +144,7 @@ footer {
 #background_layer2 {
     background-image: url(../img/bg/table.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 400px;
     background-position: bottom;
     /* background-position-y: 82vh; */
 }
@@ -222,7 +222,7 @@ footer {
 
 #plant_selector_tab {
     width: max-content;
-    height: 135px;
+    height: 100px;
     /* height: max-content;*/
 }
 
@@ -235,7 +235,7 @@ footer {
     position: relative;
     display: none;
     width: 100vw;
-    height: 135px;
+    height: 100px;
     background-color: white;
     align-items: center;
     justify-content: space-around;
