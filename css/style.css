@@ -103,8 +103,8 @@ footer {
     background-image: url(../img/Green_Plant_New2.png);
     background-position: center;
     background-size: cover;
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     background-color: #99cbff;
     border-radius: 20px;
 }
@@ -144,7 +144,7 @@ footer {
 #background_layer2 {
     background-image: url(../img/bg/table.png);
     background-repeat: no-repeat;
-    background-size: 400px;
+    background-size: 600px;
     background-position: bottom;
     /* background-position-y: 82vh; */
 }
