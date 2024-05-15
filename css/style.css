@@ -239,6 +239,7 @@ footer {
     align-items: center;
     justify-content: space-around;
     z-index: 10;
+    top: 0;
 }
 
 #footer_water {
