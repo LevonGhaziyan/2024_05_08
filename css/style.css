@@ -146,7 +146,7 @@ footer {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: bottom;
-/*     background-position-y: 82vh; */
+    /* background-position-y: 82vh; */
 }
 
 #background_layer3 {
@@ -168,7 +168,7 @@ footer {
 
 #sign {
     position: absolute;
-    bottom: 140px;
+    bottom: 16vh;
     left: 20px;
     width: 80px;
     display: flex;
@@ -176,13 +176,13 @@ footer {
 }
 
 #sign>svg {
-    width: 100%;
-    height: max-content;
+    width: 90px;
+    height: 120px;
 }
 
 #height_counter {
     position: absolute;
-    top: 12px;
+    top: 30px;
     font-size: 11px;
 }
 
@@ -202,7 +202,7 @@ footer {
 
 #plant {
     /* max-width: 250px; */
-    width: 250px;
+    width: 30vh;
 }
 
 #plant_selector {
