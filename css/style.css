@@ -253,9 +253,11 @@ footer {
     font-weight: 900;
     color: white;
     text-shadow: 0 0 4px black;
+    top: 0;
 }
 
 #footer_water>img {
     width: 92px;
+    height: 92px;
     max-width: unset;
 }
