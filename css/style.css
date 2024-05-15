@@ -86,6 +86,7 @@ footer {
     display: flex;
     justify-content: center;
     cursor: pointer;
+    height: 103px;
 }
 
 .booster>img {
