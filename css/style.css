@@ -221,8 +221,9 @@ footer {
 }
 
 #plant_selector_tab {
-    width: 25px;
-    height: max-content;
+    width: max-content;
+    height: 135px;
+    /* height: max-content;*/
 }
 
 #plant_selector_icon {
