@@ -146,7 +146,7 @@ footer {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: bottom;
-    background-position-y: 82vh;
+/*     background-position-y: 82vh; */
 }
 
 #background_layer3 {
