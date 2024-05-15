@@ -86,16 +86,15 @@ footer {
     display: flex;
     justify-content: center;
     cursor: pointer;
-    height: 103px;
 }
 
 .booster>img {
-    width: 100%;
-    height: max-content;
+    width: 90px;
+    height: 103px;
 }
 
 .booster_counter {
-    top: 97px;
+    bottom: 6px;
     position: absolute;
     font-size: 13px;
 }
